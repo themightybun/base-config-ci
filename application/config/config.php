@@ -15,6 +15,7 @@
 |
 */
 $config['base_url']	= 'http://localhost/base-config-ci/';
+$config['secure_base_url']	= 'http://localhost/base-config-ci/';
 
 /*
 |--------------------------------------------------------------------------
